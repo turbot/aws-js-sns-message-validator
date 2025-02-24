@@ -2,8 +2,6 @@
 
 This fork of [`sns-validator`](https://www.npmjs.com/package/sns-validator) uses https lib with the proxy settings.
 
-**Note**: Request has been deprecated.
-
 ## Amazon SNS Message Validator for JavaScript
 
 The **Amazon SNS Message Validator for Node.js** library allows you to validate
