@@ -9,7 +9,7 @@
   "main": "index.js",
   "devDependencies": {
     "chai": "4.2.0",
-    "mocha": "7.2.0",
+    "mocha": "11.1.0",
     "pem": "^1.8.1",
     "rewire": "^2.3.4",
     "sinon": "^1.17.6",
