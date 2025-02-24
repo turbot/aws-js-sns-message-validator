@@ -1,15 +1,15 @@
 {
-  "name": "sns-validator",
-  "version": "0.3.5",
-  "description": "A standalone validator for inbound SNS HTTP messages. No dependency on the AWS SDK for JavaScript.",
+  "name": "@turbot/sns-validator",
+  "version": "5.0.0",
+  "description": "sns-validator fork. A standalone validator for inbound SNS HTTP messages. No dependency on the AWS SDK for JavaScript.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aws/aws-js-sns-message-validator.git"
+    "url": "https://github.com/turbot/aws-js-sns-message-validator.git"
   },
   "main": "index.js",
   "devDependencies": {
-    "chai": "^3.3.0",
-    "mocha": "^2.3.3",
+    "chai": "4.2.0",
+    "mocha": "7.2.0",
     "pem": "^1.8.1",
     "rewire": "^2.3.4",
     "sinon": "^1.17.6",
@@ -22,6 +22,6 @@
     "AWS",
     "SNS"
   ],
-  "author": "Amazon Web Services",
+  "author": "Turbot HQ, Inc",
   "license": "Apache-2.0"
 }
