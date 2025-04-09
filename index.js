@@ -1,5 +1,7 @@
 "use strict";
 
+const HttpsProxyAgent = require("https-proxy-agent");
+
 var url = require('url'),
     https = require('https'),
     crypto = require('crypto'),
