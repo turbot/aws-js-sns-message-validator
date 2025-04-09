@@ -1,6 +1,6 @@
 {
   "name": "@turbot/sns-validator",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "sns-validator fork. A standalone validator for inbound SNS HTTP messages. No dependency on the AWS SDK for JavaScript.",
   "repository": {
     "type": "git",
